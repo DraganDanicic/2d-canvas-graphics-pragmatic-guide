@@ -1,0 +1,21 @@
+{
+  "name": "2d-graphics-and-geometry-with-js",
+  "version": "1.0.0",
+  "description": "Introduction to the 2d graphics with exaamples.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc --build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dragan Danicic <dragan.danicic.85@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.0.4"
+  },
+  "devDependencies": {
+    "ts-loader": "^9.4.3",
+    "webpack": "^5.84.1",
+    "webpack-cli": "^5.1.1",
+    "webpack-dev-server": "^4.15.0"
+  }
+}
